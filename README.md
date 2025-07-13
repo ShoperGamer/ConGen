@@ -1,9 +1,9 @@
 # ConGen - File Tools
 
 [![GitHub License](https://img.shields.io/github/license/ShoperGamer/congen?style=for-the-badge&label=License&color=blue)](LICENSE)
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/ShoperGamer/congen?style=for-the-badge&label=Repo%20Size&color=brightgreen)](https://github.com/yourusername/congen)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/ShoperGamer/congen?style=for-the-badge&label=Last%20Commit&color=yellow)](https://github.com/yourusername/congen)
-[![GitHub Stars](https://img.shields.io/github/stars/ShoperGamer/congen?style=social)](https://github.com/yourusername/congen)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/ShoperGamer/congen?style=for-the-badge&label=Repo%20Size&color=brightgreen)](https://github.com/ShoperGamer/congen)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/ShoperGamer/congen?style=for-the-badge&label=Last%20Commit&color=yellow)](https://github.com/ShoperGamer/congen)
+[![GitHub Stars](https://img.shields.io/github/stars/ShoperGamer/congen?style=social)](https://github.com/ShoperGamer/congen)
 
 ## 🇹🇭 ภาษาไทย
 

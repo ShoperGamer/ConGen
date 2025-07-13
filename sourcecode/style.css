@@ -1,0 +1,93 @@
+/* Progress bar container */
+#progressContainer, #convertProgressContainer {
+    transition: opacity 0.3s ease;
+}
+
+/* Error message styling */
+.text-red-500 {
+    color: #ef4444;
+}
+
+.border-red-500 {
+    border-color: #ef4444;
+}
+
+/* Disabled checkbox styling */
+input[type="checkbox"]:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+/* Button loading state */
+button:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+}
+
+/* Download confirmation section */
+#downloadConfirmation, #convertedDownloadConfirmation {
+    transition: all 0.3s ease;
+    background-color: #f9fafb;
+}
+
+/* Download button */
+#downloadBtn:hover, #convertedDownloadBtn:hover {
+    background-color: #059669;
+}
+
+/* Delete button */
+#deleteBtn:hover, #convertedDeleteBtn:hover {
+    background-color: #dc2626;
+}
+
+/* File list styling */
+#fileList {
+    scrollbar-width: thin;
+    scrollbar-color: #cbd5e0 #f1f5f9;
+}
+
+#fileList::-webkit-scrollbar {
+    width: 8px;
+}
+
+#fileList::-webkit-scrollbar-track {
+    background: #f1f5f9;
+}
+
+#fileList::-webkit-scrollbar-thumb {
+    background-color: #cbd5e0;
+    border-radius: 4px;
+}
+
+.file-item {
+    transition: all 0.2s ease;
+}
+
+.file-item:hover {
+    background-color: #f3f4f6;
+}
+
+.file-item.dragging {
+    opacity: 0.5;
+    background-color: #e5e7eb;
+}
+
+/* Drop area styling */
+#dropArea {
+    transition: all 0.2s ease;
+}
+
+#dropArea.drag-over {
+    background-color: #f0f9ff;
+    border-color: #3b82f6;
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+    .container > div {
+        width: 100%;
+    }
+}
